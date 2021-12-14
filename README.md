@@ -1,2 +1,2 @@
 # SE323_material
-just an collection
+just materials collections for finding the testing knowledge
